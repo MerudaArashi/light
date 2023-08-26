@@ -1,5 +1,6 @@
-name:建行特制
-desc:建行特制
+name:建行生活
+desc:建行生活描述
+
 cron:
   script:
     - name: 建行生活
